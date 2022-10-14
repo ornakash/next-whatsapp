@@ -1,3 +1,3 @@
-import MyCounter from "./components/App";
+import WhatsappButton from "./components/App";
 
-export { MyCounter };
+export { WhatsappButton };
