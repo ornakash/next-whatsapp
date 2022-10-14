@@ -3,7 +3,7 @@
     "extends": [
       "eslint:recommended",
       "plugin:react/recommended",
-      "plugin:prettier/recommended",
+
       "plugin:@typescript-eslint/eslint-recommended",
       "plugin:@typescript-eslint/recommended"
     ],
@@ -18,7 +18,10 @@
       "react-hooks/exhaustive-deps": "warn",
       "@typescript-eslint/no-non-null-assertion": "off",
       "@typescript-eslint/ban-ts-comment": "off",
-      "@typescript-eslint/no-explicit-any": "off"
+      "@typescript-eslint/no-explicit-any": "off",
+      //for commonjs
+      "@typescript-eslint/no-var-requires": "off" 
+
     },
     "settings": {
       "react": {
