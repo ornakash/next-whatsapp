@@ -1,0 +1,26 @@
+{
+  "name": "next-whatsapp",
+  "version": "0.0.1",
+  "description": "A lightweight floating WhatsApp button for your Next.js/react.js website",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "whatsapp",
+    "next.js",
+    "react",
+    "floating",
+    "button",
+    "chat",
+    "messenger"
+  ],
+  "author": "Or Nakash",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.8.4"
+  }
+}
