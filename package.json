@@ -1,6 +1,6 @@
 {
   "name": "next-whatsapp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A lightweight floating WhatsApp button for your Next.js/react.js website",
   "main": "index.js",
   "scripts": {
