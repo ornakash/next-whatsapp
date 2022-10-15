@@ -1,6 +1,6 @@
 import React from "react";
 
-export const IconWhatsapp = ({ width = "22px", height = "22px" }: any) => (
+export const IconWhatsapp = ({ width = "40p", height = "40px" }: any) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlnsXlink="http://www.w3.org/1999/xlink"

@@ -3,7 +3,14 @@ import { IconWhatsapp } from "../svgs/icon-whatsapp";
 
 const WhatsappButton = () => {
   return (
-    <div className="fixed bottom-4 right-4 z-50 bg-[red]">
+    <div
+      style={{
+        position: "fixed",
+        bottom: "20px",
+        right: "20px",
+        zIndex: 9999,
+      }}
+    >
       <IconWhatsapp />
     </div>
   );
